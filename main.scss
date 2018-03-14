@@ -1,5 +1,7 @@
 $fonimg:"https://www.warnerbros.com/archive/spacejam/movie/img/bg_stars.gif";
 $foncontainer:"https://media.gq.com/photos/582b44825e05d0d72af0925a/3:2/w_1200/space-jam-soundtrack-lede.jpg";
+$secondaycolor: "https://www.warnerbros.com/archive/spacejam/movie/img/bg_stars.gif";
+$colorLet:#FFFFFF;
 
 body{
   background-image:url($fonimg);
@@ -45,7 +47,7 @@ h3, h2 {
   justify-content: center;
   display: -webkit-flex;
   display: flex;
-  color: #FFFFFF;
+  color: $colorLet;
   text-align: justify;
 }
 
@@ -55,7 +57,7 @@ h3, h2 {
   justify-content: space-around;
   width: 100%;
   margin-top: 20px;
-  color: #FFFFFF;
+  color: $colorLet;
   text-align: justify;
 }
 
@@ -67,3 +69,12 @@ h3, h2 {
       max-width: 100%;
       max-height: 100%;
       border-radius: 50px 50px;}
+
+      footer {
+          text-align: center;
+          line-height: 30px;
+          margin-top: 20px;
+          height: 30px;
+          background-image: url($secondaycolor);
+          color: $colorLet;
+      }
