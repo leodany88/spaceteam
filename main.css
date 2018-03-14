@@ -1,0 +1,15 @@
+body {
+  background-image: url("https://www.warnerbros.com/archive/spacejam/movie/img/bg_stars.gif"); }
+
+.navbar {
+  background-image: url("https://www.warnerbros.com/archive/spacejam/movie/img/bg_stars.gif"); }
+
+.dropdown-image {
+  height: 20px;
+  margin-right: 14px;
+  vertical-align: initial; }
+
+#main-logo {
+  height: 50px; }
+
+/*# sourceMappingURL=main.css.map */
