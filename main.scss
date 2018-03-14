@@ -3,7 +3,6 @@ body{
 }
 
 .navbar {
-    background-image:url("https://www.warnerbros.com/archive/spacejam/movie/img/bg_stars.gif");
     border: 1 solid;
 }
 
@@ -15,4 +14,26 @@ body{
 
 #main-logo {
     height: 50px;
+}
+
+nav {
+    background-color: #178E8D;
+}
+
+footer {
+    background-color: #F82A31;
+}
+
+.bio-container {
+    h1 {
+        color: #FEFE90;
+    }
+    hr {
+        border-color: #FEFE90;
+    }
+
+    .card {
+        min-width: 220px;
+        max-width: 220px;
+    }
 }

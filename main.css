@@ -2,7 +2,7 @@ body {
   background-image: url("https://www.warnerbros.com/archive/spacejam/movie/img/bg_stars.gif"); }
 
 .navbar {
-  background-image: url("https://www.warnerbros.com/archive/spacejam/movie/img/bg_stars.gif"); }
+  border: 1 solid; }
 
 .dropdown-image {
   height: 20px;
@@ -11,5 +11,19 @@ body {
 
 #main-logo {
   height: 50px; }
+
+nav {
+  background-color: #178E8D; }
+
+footer {
+  background-color: #F82A31; }
+
+.bio-container h1 {
+  color: #FEFE90; }
+.bio-container hr {
+  border-color: #FEFE90; }
+.bio-container .card {
+  min-width: 220px;
+  max-width: 220px; }
 
 /*# sourceMappingURL=main.css.map */
