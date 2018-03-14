@@ -1,0 +1,20 @@
+$colores: #eff1f4;
+$tamanio_Inicial: 60px;
+$tamanio: 40px;
+.col{
+float: none;
+}
+
+body{
+  background-image: url("imgM/space_bg.jpg");
+//background-color: black;
+  background-size: cover;
+}
+
+
+.pie{
+  background-color: #303d51;
+  div{
+    color: white;
+  }
+}

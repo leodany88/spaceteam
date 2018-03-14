@@ -1,0 +1,13 @@
+.col {
+  float: none; }
+
+body {
+  background-image: url("img/space_bg.jpg");
+  background-size: cover; }
+
+.pie {
+  background-color: #303d51; }
+  .pie div {
+    color: white; }
+
+/*# sourceMappingURL=mainM.css.map */
